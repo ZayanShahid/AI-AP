@@ -1,3 +1,3 @@
 # AI-AP
 
-Python Programming 
+This file is nothing but a Python Programming test description.
